@@ -1,6 +1,36 @@
-### Hi there 👋
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Visitor Counts :
+<p align="right" > 
+  <img alighn= "center" src="https://profile-counter.glitch.me/nabilah-h-s/count.svg" color=5b187a width="350"/>  
+</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
+
+<p align="right">
+<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilah-h-s&theme=algolia&hide_border=true"  width="500" />
+</p>
+
+<p align="right">
+<img src = "https://github-readme-stats.vercel.app/api?username=nabilah-h-s&theme=algolia&bg_color=0,000000,130F40&icon_color=bb2acf&count_private=true&include_all_commits=true&show_icons=true" width="500"/> 
+</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Activity Graph :
+
+<p align="right">
+<img align="center" src = "https://activity-graph.herokuapp.com/graph?username=nabilah-h-s&theme=react-dark&area=true&count_private=true" width="500"/>
+</p>
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">Remarkable Gruop Project to be mentioned!!   
+<p align="right">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HabibRh26&theme=algolia&repo=Software-Engineering-Project" width="500"/>
+</p>
+
+
+#
+
 
 <!--
+### Hi there 👋
 **nabilah-h-s/nabilah-h-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
