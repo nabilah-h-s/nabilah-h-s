@@ -10,23 +10,26 @@ Created this with help of lots of template collection of https://github.com/durg
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
 
 <p align="right">
-<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilah-h-s&theme=algolia&hide_border=true"  width="500" />
+<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilah-h-s&theme=algolia" width="500"/>
 </p>
 
 <p align="right">
 <img src = "https://github-readme-stats.vercel.app/api?username=nabilah-h-s&theme=algolia&bg_color=0,000000,130F40&icon_color=bb2acf&count_private=true&include_all_commits=true&show_icons=true" width="500"/> 
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Activity Graph :
-<!-- used width in images to fixed the size, if you want to be it dynamic, just remove " width="500" " -->
-<p align="right">
-<img align="center" src = "https://activity-graph.herokuapp.com/graph?username=nabilah-h-s&theme=react-dark&area=true&count_private=true" width="500"/>
-</p>
-
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">Remarkable Gruop Project to be mentioned!!   
 <p align="right">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HabibRh26&theme=algolia&repo=Software-Engineering-Project" width="500"/>
 </p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Activity Graph :
+<!-- used width in images to fixed the size, if you want to be it dynamic, just remove " width="500" "
+ to remove border, &hide_border=true -->
+<p align="right">
+<img align="center" src = "https://activity-graph.herokuapp.com/graph?username=nabilah-h-s&theme=react-dark&area=true&count_private=true"/>
+</p>
+
+
 
 
 
