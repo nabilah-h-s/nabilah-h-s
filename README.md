@@ -2,12 +2,12 @@
 Created this with help of lots of template collection of https://github.com/durgeshsamariya/awesome-github-profile-readme-templates, so credit goes to the contributors of the repository!! 
 -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Visitor Counts :
+## Visitor Counts :
 <p align="right" > 
   <img alighn= "center" src="https://profile-counter.glitch.me/nabilah-h-s/count.svg" color=5b187a width="250"/>  
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
+## General Stats :
 
 <p align="right">
 <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilah-h-s&theme=algolia" width="500"/>
@@ -18,7 +18,7 @@ Created this with help of lots of template collection of https://github.com/durg
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Activity Graph :
+## Activity Graph :
 <!-- used width in images to fixed the size, if you want to be it dynamic, just remove " width="500" "
  to remove border, &hide_border=true -->
 <p align="right">
