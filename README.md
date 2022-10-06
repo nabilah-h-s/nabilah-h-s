@@ -13,9 +13,6 @@ Created this with help of lots of template collection of https://github.com/durg
 <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilah-h-s&theme=algolia" width="500"/>
 </p>
 
-<p align="right">
-<img src = "https://github-readme-stats.vercel.app/api?username=nabilah-h-s&theme=algolia&bg_color=0,000000,130F40&icon_color=bb2acf&count_private=true&include_all_commits=true&show_icons=true" width="500"/> 
-</p>
 
 
 ## Activity Graph :
