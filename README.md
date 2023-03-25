@@ -14,20 +14,6 @@ Created this with help of lots of template collection of https://github.com/durg
 </p>
 
 
-
-## Activity Graph :
-<!-- used width in images to fixed the size, if you want to be it dynamic, just remove " width="500" "
- to remove border, &hide_border=true -->
-<p align="right">
-<img align="center" src = "https://activity-graph.herokuapp.com/graph?username=nabilah-h-s&theme=react-dark&area=true&count_private=true"/>
-</p>
-
-
-
-
-
-
-
 <!--
 ### Hi there 👋
 **nabilah-h-s/nabilah-h-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
