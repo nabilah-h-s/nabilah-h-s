@@ -1,7 +1,7 @@
 <!--
 Created this with help of lots of template collection of https://github.com/durgeshsamariya/awesome-github-profile-readme-templates, so credit goes to the contributors of the repository!! 
 -->
-
+<script src="//code.tidio.co/6arzsnsdrr0rkjnfqbipn3ywwj8ols2o.js" async></script>
 ## Visitor Counts :
 <p align="right" > 
   <img alighn= "center" src="https://profile-counter.glitch.me/nabilah-h-s/count.svg" color=5b187a width="250"/>  
